@@ -1,0 +1,10 @@
+this should show up in the file 06-09 22:34:16
+Allowed access: amily at socket 5 0x10 (06-09 22:34:16)
+Client Thread created: fd: 5 (06-09 22:34:16)
+message was sent with type 32 (06-09 22:34:16)
+a valid message was sent with type 3 (06-09 22:34:16)
+Added Job: 0x20 from client 5 (06-09 22:34:16)
+
+Removing Job from the buffer : 0x20 called by 5 (06-09 22:34:16)
+Working on Job of type : 0x20 called by 5 (06-09 22:34:16)
+Added Room : hu called by 5 (06-09 22:34:16)
